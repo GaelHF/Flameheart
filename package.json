@@ -1,0 +1,23 @@
+{
+  "name": "flameheart",
+  "version": "2.0.0",
+  "description": "Bot Discord de la RED SEA (Sea of Thieves)",
+  "main": "index.js",
+  "type": "module",
+  "engines": {
+    "node": ">=20.6"
+  },
+  "scripts": {
+    "start": "node --env-file=.env index.js",
+    "deploy": "node --env-file=.env src/deploy-commands.js"
+  },
+  "dependencies": {
+    "@discordjs/voice": "^0.19.2",
+    "discord.js": "^14.27.0",
+    "ffmpeg-static": "^5.3.0",
+    "libsodium-wrappers": "^0.8.4",
+    "node-cron": "^4.1.0"
+  },
+  "author": "GaelHF",
+  "license": "ISC"
+}

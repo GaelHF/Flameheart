@@ -1,0 +1,37 @@
+{
+    "clientId": "1295528701261381673",
+    "guildId": "1295028359935561859",
+
+    "timezone": "America/Toronto",
+
+    "roles": {
+        "member": "1295028855014166659",
+        "admin": "1295029381374410792",
+        "staff": "1295030946696921098",
+        "goldRush": "1373337487102967990"
+    },
+
+    "channels": {
+        "welcome": "1295552668625801216",
+        "goldRush": "1384228004997103718",
+        "ticketsCategory": "1295706495224381512",
+        "ticketsInfo": "1295706384007954473"
+    },
+
+    "tempVoice": {
+        "1295028360761708649": { "prefix": "Sloop", "userLimit": 2 },
+        "1295531128828203008": { "prefix": "Brigantin", "userLimit": 3 },
+        "1295531180980047922": { "prefix": "Galion", "userLimit": 4 },
+        "1537816907615436880": { "prefix": "Navire", "usreLimit": 100 }
+    },
+
+    "assets": {
+        "welcomeBanner": "https://cdn.discordapp.com/attachments/1295550185640038452/1345848294609391708/WelcomeBanner.png?ex=67c60a66&is=67c4b8e6&hm=5b205c4ba3cbea6918f8c2ac5ac818cb63e65d906bde472d510fac0ce29a513a&",
+        "rulesBanner": "https://cdn.discordapp.com/attachments/1295550185640038452/1345848322094796810/RulesBanner.png?ex=67c60a6c&is=67c4b8ec&hm=2599923f837e759eba89c0fb52dba01913315e75ede71a55b6536c9aa0026851&",
+        "goldRushIcon": "https://cdn.discordapp.com/attachments/1154935482078220360/1154935482732531712/goldEventIcon.png?ex=68515dbc&is=68500c3c&hm=68325fa05f7fa5efbaa140fe0dfcd5ad185b9db685e329490b103f5f572407fe&"
+    },
+
+    "emojis": {
+        "gold": "<:Or:1295549019841363978>"
+    }
+}
